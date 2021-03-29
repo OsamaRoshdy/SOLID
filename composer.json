@@ -3,5 +3,9 @@
     "psr-4": {
       "SOLID\\": "Perinciples/"
     }
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "3.5.8",
+    "phpmd/phpmd": "2.9.1"
   }
 }
